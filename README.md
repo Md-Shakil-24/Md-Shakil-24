@@ -86,6 +86,6 @@ In the future, I aim to work with **Artificial Intelligence (AI)** to create inn
 **How to Run Locally:**
 ```bash
 git clone https://github.com/Md-Shakil-24/Client-Side-B11-A12-NewsHub
-cd NewsHub-website
+cd NewsHub
 npm install
 npm start
