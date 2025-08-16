@@ -50,7 +50,7 @@ In the future, I aim to work with **Artificial Intelligence (AI)** to create inn
 
 ## 🌐 Connect With Me
 <p>
-  <a href="https://linkedin.com/in/md-shakil-ahmed" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+  <a href="https://www.linkedin.com/in/md-shakil-cse-vu" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
   <a href="https://github.com/md-shakil-24" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
   <a href="mailto:shakilahmed14068682@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
 </p>
